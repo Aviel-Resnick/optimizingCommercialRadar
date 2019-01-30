@@ -1,2 +1,2 @@
 # Optimizing-Commercial-Radar
-My 2016-2017 PJAS Project
+An application of multithreading to a simulated radar system as a proof-of-concept that software optimization techniques could be applied to hybrid systems.
